@@ -40,7 +40,7 @@ function App() {
 
             {/*Practice 4:*/}
             <button onClick={() => {
-                setIsShow4(!isShow3)
+                setIsShow4(!isShow4)
             }
             }>Show Practice 4
             </button>
